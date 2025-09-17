@@ -1,0 +1,57 @@
+/*Adding Style My Portfolio*/
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/*Header*/
+
+header {
+  background: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+/*Profile Section*/
+
+#profile{
+    text-align: center;
+    padding: 20px;
+}
+
+#profile img {
+  width: 150px;   /* make the image 150px wide */
+  height: auto;   /* keeps the aspect ratio */
+  border-radius: 0; 
+}
+
+/*Skills Section*/
+
+#skills {
+
+    padding: 20px;
+
+}
+
+#skills ul {
+    list-style-type: square;
+}
+
+/*Footer*/
+footer {
+    text-align: center;
+    background: #222;
+    color: white;
+    padding: 10px;
+}
+
+footer a {
+
+    color: #4CAF50;
+    text-decoration: none;
+}
